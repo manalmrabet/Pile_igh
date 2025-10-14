@@ -1,0 +1,9 @@
+#,"Adresse","État","Type","Nom du périphérique"
+0,"0:0","PREOP","Motion","**EPOS3 70/10** EtherCAT (Contrôleur de moteur maxon EPOS3)"
+1,"0:1","PREOP","Bus Coupler","**EK1100** (Coupleur EtherCAT Beckhoff, 2A E-Bus)"
+2,"0:2","PREOP","Encoder","**EL5101** (Entrée encodeur incrémental 5V, 1K)"
+3,"0:3","PREOP","Analog Out","**EL4132** (Sorties analogiques ±10V, 2 ch, 16 bits)"
+4,"0:4","PREOP","Analog In","**EL3102** (Entrées analogiques ±10V, différentiel, 2 ch)"
+5,"0:5","PREOP","Digital Out","**EL2008** (8 sorties numériques 24V, 0.5A)"
+6,"0:6","PREOP","Digital In","**EL1018** (8 entrées numériques 24V, 10µs)"
+
