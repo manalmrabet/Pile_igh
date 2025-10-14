@@ -12,6 +12,7 @@ Pile IgH
    :maxdepth: 2
    :caption: Sommaire
 
+   inventaire_esclaves
    horloges_distribuées
    aspects_temporels
 
