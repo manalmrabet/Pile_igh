@@ -1,4 +1,3 @@
-#,"Adresse","État","Type","Nom du périphérique"
 0,"0:0","PREOP","Motion","**EPOS3 70/10** EtherCAT (Contrôleur de moteur maxon EPOS3)"
 1,"0:1","PREOP","Bus Coupler","**EK1100** (Coupleur EtherCAT Beckhoff, 2A E-Bus)"
 2,"0:2","PREOP","Encoder","**EL5101** (Entrée encodeur incrémental 5V, 1K)"
